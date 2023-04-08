@@ -1,5 +1,6 @@
-# VS CODE
+# enviroment
 .vscode/
+build/
 
 # Prerequisites
 *.d
